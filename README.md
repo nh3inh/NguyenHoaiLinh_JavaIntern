@@ -1,7 +1,7 @@
 # Nguyen Hoai Linh - CV
 
-Hello! I'm **Nguyen Hoai Linh**, an Information Technology student.  
-I am currently seeking an internship or job opportunity as a **Java Intern** to gain hands-on experience, improve my skills, and contribute to real-world projects.
+Hello! I'm Nguyen Hoai Linh, an Information Technology student.  
+I am currently seeking an internship or job opportunity as a Java Intern to gain hands-on experience, improve my skills, and contribute to real-world projects.
 
 ## Personal Information
 
